@@ -1,33 +1,13 @@
----
-description: Welcome to Product, Management and Delivery at CYF
----
+# Data Analysis Learning Path
 
-# Overview
+##
 
-## Learning Objectives
+### Learning Objectives <a href="#learning-objectives" id="learning-objectives"></a>
 
-Briefly list very top level learning objectives ([guide here)](https://teachtogether.tech/en/index.html#s:process-objectives)
+​
 
-* Explain topic
-* Use tool
-* Build thing
-
-Don't worry too much about the format -- Syllabus can revise your wording
-
-## Topic Introduction
-
-Max 250 words. Syllabus can revise this, so it's fine to just get a first draft down.
-
-
-
-## Manifesto for Agile Software Development
-
-We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
-
-* Individuals and interactions over processes and tools
-* Working software over comprehensive documentation
-* Customer collaboration over contract negotiation
-* Responding to change over following a plan\
-
-
-That is, while there is value in the items on the right, we value the items on the left more.
+* The learner will gain a comprehensive understanding of the basic concepts, processes, and principles of data analysis.
+* The learner will acquire skills on how to collect, clean, and preprocess raw data to ensure its accuracy and readiness for analysis.
+* The learner will Develop skills in creating meaningful visualizations to effectively communicate insights and patterns in data.
+* The Learner will Develop the ability to interpret analysis results and draw meaningful insights from data.
+* The Learner will Cultivate critical thinking skills to identify relevant questions and apply appropriate analysis methods to address them.
